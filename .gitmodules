@@ -1,3 +1,5 @@
 [submodule "TestRepository"]
 	path = TestRepository
 	url = https://github.com/Haxrox/TestRepository.git
+[submodule ".\\TestRepository\\"]
+	url = https://github.com/Haxrox/RepoDocs.git
